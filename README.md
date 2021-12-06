@@ -9,7 +9,7 @@ The audio file was first uploaded to AWS S3 bucket, and its uri link was used fo
 #### Gensim
 Gensim is a Python ibrary for topic modelling, document indexing and similarity retrieval with large corpora.
 Its keywords and summerizer function were used to extract keywords and summerize the transcription.
-More information can be found here: https://radimrehurek.com/gensim/
+More information can be found [here](https://radimrehurek.com/gensim/)
 
 ### Original team repository 
-The original repository can be found here: https://github.com/sahanan13/toddle
+The original repository can be found [here](https://github.com/sahanan13/toddle)
