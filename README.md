@@ -1,6 +1,7 @@
 # Too-distracted-didn't-listen-enough (Toddle)
 ### Google x Break Through AI project
 Toddle is a ml project that creates notes from audio lecture file.
+This project is an exteneded personal project from the team project.
 
 #### AWS SDK
 AWS Transcribe SDK was used to convert audio lecture files (mp3/mp4) to text files.
